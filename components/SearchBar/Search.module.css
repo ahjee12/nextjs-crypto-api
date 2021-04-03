@@ -1,0 +1,21 @@
+.coin_search{
+    margin: 0 0 64px 0;
+    display: flex;
+    align-items: center;
+    width: 299px;
+}
+
+.coin_input{
+    background: #222531;
+    border: none;
+    padding: 26px;
+    border-radius: 4px;
+    outline: none;
+   
+    height: 100%;
+    width: 100%;
+}
+.coin_input::placeholder{
+    color: #e2e2e2;
+
+}
